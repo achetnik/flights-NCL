@@ -1,4 +1,4 @@
-"""Newcastle Airport (NCL) destinations — April 2026."""
+"""Newcastle Airport (NCL) destinations — May 2026."""
 
 DESTINATIONS = {
     "NCL": {
@@ -32,7 +32,6 @@ DESTINATIONS = {
             "DLM": "Dalaman",
             "DUB": "Dublin",
             "DUS": "Dusseldorf",
-            "DXB": "Dubai",
             "EFL": "Kefalonia",
             "EXT": "Exeter",
             "FAO": "Faro",
@@ -46,7 +45,6 @@ DESTINATIONS = {
             "GVA": "Geneva",
             "HAM": "Hamburg",
             "HER": "Heraklion",
-            "HRG": "Hurghada",
             "IBZ": "Ibiza",
             "INN": "Innsbruck",
             "IST": "Istanbul",
@@ -83,7 +81,6 @@ DESTINATIONS = {
             "SKG": "Thessaloniki",
             "SOF": "Sofia",
             "SOU": "Southampton",
-            "SSH": "Sharm El Sheikh",
             "STR": "Stuttgart",
             "SVG": "Stavanger",
             "SZG": "Salzburg",
